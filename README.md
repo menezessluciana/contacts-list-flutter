@@ -1,6 +1,6 @@
-# contacts_list_flutter
+# Agenda de contatos
 
-A new Flutter project.
+Agenda de contatos desenvolvida em flutter utilizando os plugins sqflite, url_launcher e image_picker.
 
 ## Getting Started
 
